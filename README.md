@@ -7,6 +7,10 @@
 
 为了方便写一些简单界面的时候能够直接在生成的框架基础上进行修改
 
+## 致谢
+
++ https://github.com/Wjhsmart/Front-end-UI
+
 ## 更新 `2021.5.24`
 
 + clearmin
@@ -44,4 +48,40 @@
   ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/hplus_3.png)
   
   ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/hplus_4.png)
+
+## 更新 `2021.5.26`
+
++ AmazeUI
+
+  备注：Amaze UI 是一个轻量级（所有 CSS 和 JS gzip 后 100 kB 左右）、 [**Mobile first**](http://cbrac.co/113eY5h) 的前端框架， 基于开源社区流行前端框架编写（[使用、参考的项目列表](https://github.com/amazeui/amazeui#参考使用的项目)）
+
+  [项目官网](https://amazeui.shopxo.net/)
+
+  [github地址](https://github.com/amazeui/amazeui)
+
+  演示网址：暂无
+
+  版本`2.7.2`
+
+  截图：
+
+  ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/AmazeUI_1.png)
+
+  ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/AmazeUI_2.png)
+
+  ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/AmazeUI_3.png)
+
+  ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/AmazeUI_4.png)
+
+  ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/AmazeUI_5.png)
+
++ LayerAdmin
+
+  备注：无
+
+  截图：
+
+  ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/LayerAdmin_1.png)
+
+
 
