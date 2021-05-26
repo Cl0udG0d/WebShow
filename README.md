@@ -7,6 +7,19 @@
 
 为了方便写一些简单界面的时候能够直接在生成的框架基础上进行修改
 
+## 目录结构
+
+```python
+WebShow
+├── AmazeUI # AmazeUI 框架
+├── clearmin # clearmin 框架
+├── hplus-4.1 # hplus-4.1 框架
+├── images # 项目图片文件夹
+├── LayerAdmin # LayerAdmin 框架
+├── LICENSE # 项目许可
+├── README.md # 自述文件
+```
+
 ## 致谢
 
 + https://github.com/Wjhsmart/Front-end-UI
