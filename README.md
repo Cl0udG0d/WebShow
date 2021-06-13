@@ -12,6 +12,7 @@
 ```python
 WebShow
 ├── AmazeUI # AmazeUI 框架
+├── BookStoreTemp # BookStoreTemp框架
 ├── clearmin # clearmin 框架
 ├── hplus-4.1 # hplus-4.1 框架
 ├── images # 项目图片文件夹
@@ -23,6 +24,7 @@ WebShow
 ## 致谢
 
 + https://github.com/Wjhsmart/Front-end-UI
++ https://github.com/houlongchao/BookStoreTemp
 
 ## 更新 `2021.5.24`
 
@@ -95,6 +97,26 @@ WebShow
   截图：
 
   ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/LayerAdmin_1.png)
+
+## 更新 `2021.6.14`
+
++ BookStoreTemp
+
+  备注：个人开发的一个网站模板
+
+  [github地址](https://github.com/houlongchao/BookStoreTemp)
+
+  截图：
+
+  ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/BookStoreTemp_1.png)
+
+  ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/BookStoreTemp_2.png)
+
+  ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/BookStoreTemp_3.png)
+
+  ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/BookStoreTemp_4.png)
+
+  ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/BookStoreTemp_5.png)
 
 
 
