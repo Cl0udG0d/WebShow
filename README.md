@@ -17,6 +17,8 @@ WebShow
 ├── hplus-4.1 # hplus-4.1 框架
 ├── images # 项目图片文件夹
 ├── LayerAdmin # LayerAdmin 框架
+├── Apricot # Apricot 框架
+├── arkAdmin # arkAdmin 框架
 ├── LICENSE # 项目许可
 ├── README.md # 自述文件
 ```
@@ -25,6 +27,7 @@ WebShow
 
 + https://github.com/Wjhsmart/Front-end-UI
 + https://github.com/houlongchao/BookStoreTemp
++ https://github.com/project-store/theme
 
 ## 更新 `2021.5.24`
 
@@ -118,5 +121,23 @@ WebShow
 
   ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/BookStoreTemp_5.png)
 
+## 更新 `2021.8.2`
 
++ Apricot
+
+  [仓库地址]()
+
+  截图:
+
+  ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/Apricot_01.png)
+
++ arkAdmin
+
+  [仓库地址]()
+
+  截图:
+
+  ![](https://github.com/Cl0udG0d/WebShow/blob/main/images/arkAdmin_1.png)
+
+  
 
