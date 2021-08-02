@@ -125,7 +125,7 @@ WebShow
 
 + Apricot
 
-  [仓库地址]()
+  [仓库地址](https://github.com/Cl0udG0d/WebShow/tree/main/Apricot)
 
   截图:
 
@@ -133,7 +133,7 @@ WebShow
 
 + arkAdmin
 
-  [仓库地址]()
+  [仓库地址](https://github.com/Cl0udG0d/WebShow/tree/main/arkAdmin)
 
   截图:
 
